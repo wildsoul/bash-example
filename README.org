@@ -1,0 +1,4 @@
+* About 
+  There are some examples of bash (shell script). 
+  Just do enough practice and for fun :)
+
